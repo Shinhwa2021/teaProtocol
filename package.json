@@ -1,5 +1,5 @@
 {
-  "name": "@moncici/binance",
+  "name": "@shinhwa/teaProtocol",
   "version": "1.0.3",
   "description": "",
   "type": "module",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moncici007/binance"
+    "url": "https://github.com/Shinhwa2021/teaProtocol"
   },
-  "website": "https://github.com/moncici007/binance.git",
+  "website": "https://github.com/Shinhwa2021/teaProtocol.git",
   "keywords": [
     "binance",
     "client",
@@ -20,13 +20,13 @@
   "author": "moncici007",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moncici007/binance/issues"
+    "url": "https://github.com/Shinhwa2021/teaProtocol/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/moncici007/binance#readme",
+  "homepage": "https://github.com/Shinhwa2021/teaProtocol#readme",
   "dependencies": {
     "@moncici/date-time-processor": "^1.0.3",
     "@moncici/log": "^1.0.2",
