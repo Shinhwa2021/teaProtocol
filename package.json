@@ -1,6 +1,6 @@
 {
   "name": "@shinhwa2021/teaprotocol",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
