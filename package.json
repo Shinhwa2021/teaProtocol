@@ -17,7 +17,7 @@
     "client",
     "arbitrim"
   ],
-  "author": "moncici007",
+  "author": "shinhwa2021",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shinhwa2021/teaProtocol/issues"
@@ -28,10 +28,7 @@
   },
   "homepage": "https://github.com/shinhwa2021/teaProtocol#readme",
   "dependencies": {
-    "@moncici/date-time-processor": "^1.0.3",
-    "@moncici/log": "^1.0.2",
-    "@moncici/proxy": "^1.0.3",
-    "@moncici/sleep": "^1.0.1",
+    "@shinhwa2021/houseselling": "^1.0.2",
     "feishu-notifier": "^1.0.3"
   }
 }
