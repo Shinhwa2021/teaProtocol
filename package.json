@@ -24,7 +24,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://www.npmjs.com/login"
+    "registry": "https://registry.npmjs.org"
   },
   "homepage": "https://github.com/Shinhwa2021/teaProtocol#readme",
   "dependencies": {
