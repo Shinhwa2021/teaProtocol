@@ -3,9 +3,9 @@
   "version": "1.0.5",
   "description": "",
   "type": "module",
-  "main": "coin_scan_binance.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -13,9 +13,7 @@
   },
   "website": "https://github.com/shinhwa2021/teaProtocol.git",
   "keywords": [
-    "binance",
-    "client",
-    "arbitrim"
+    "housebuyer"
   ],
   "author": "shinhwa2021",
   "license": "ISC",
@@ -28,7 +26,6 @@
   },
   "homepage": "https://github.com/shinhwa2021/teaProtocol#readme",
   "dependencies": {
-    "@shinhwa2021/houseselling": "^1.0.3",
-    "feishu-notifier": "^1.0.3"
+    "@shinhwa2021/houseselling": "^1.0.4"
   }
 }
